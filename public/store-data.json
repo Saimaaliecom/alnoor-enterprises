@@ -1,0 +1,975 @@
+{
+  "store": "Al Noor Enterprises",
+  "phone": "0313-8404464",
+  "categories": [
+    "Home & Kitchen",
+    "Cleaning & Household",
+    "Beauty & Personal Care",
+    "Mobile Accessories & Gadgets",
+    "Home Organization",
+    "Bathroom Essentials",
+    "Car Accessories",
+    "Daily-Use & Lifestyle"
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Multi-Function Vegetable Chopper",
+      "category": "Home & Kitchen",
+      "price": 1450,
+      "image": "images/001.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Manual Garlic Press",
+      "category": "Home & Kitchen",
+      "price": 650,
+      "image": "images/002.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Oil Spray Bottle",
+      "category": "Home & Kitchen",
+      "price": 750,
+      "image": "images/003.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Silicone Cooking Utensils Set",
+      "category": "Home & Kitchen",
+      "price": 1250,
+      "image": "images/004.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Airtight Food Storage Containers",
+      "category": "Home & Kitchen",
+      "price": 1350,
+      "image": "images/005.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Spice Storage Organizer",
+      "category": "Home & Kitchen",
+      "price": 950,
+      "image": "images/006.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Dish Drying Rack",
+      "category": "Home & Kitchen",
+      "price": 1150,
+      "image": "images/007.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Under-Sink Storage Organizer",
+      "category": "Home & Kitchen",
+      "price": 1050,
+      "image": "images/008.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Refrigerator Storage Bins",
+      "category": "Home & Kitchen",
+      "price": 850,
+      "image": "images/009.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Sink Drain Basket",
+      "category": "Home & Kitchen",
+      "price": 450,
+      "image": "images/010.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Adjustable Pot Lid Organizer",
+      "category": "Home & Kitchen",
+      "price": 750,
+      "image": "images/011.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Foldable Dish Drainer",
+      "category": "Home & Kitchen",
+      "price": 950,
+      "image": "images/012.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Reusable Food Storage Bags",
+      "category": "Home & Kitchen",
+      "price": 550,
+      "image": "images/013.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Handheld Milk Frother",
+      "category": "Home & Kitchen",
+      "price": 850,
+      "image": "images/014.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Manual Fruit Juicer",
+      "category": "Home & Kitchen",
+      "price": 1250,
+      "image": "images/015.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Multipurpose Kitchen Scissors",
+      "category": "Home & Kitchen",
+      "price": 550,
+      "image": "images/016.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Digital Kitchen Scale",
+      "category": "Home & Kitchen",
+      "price": 1350,
+      "image": "images/017.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Heat-Resistant Silicone Mats",
+      "category": "Home & Kitchen",
+      "price": 650,
+      "image": "images/018.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Drawer Organizer Trays",
+      "category": "Home & Kitchen",
+      "price": 850,
+      "image": "images/019.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Vegetable Peeler Set",
+      "category": "Home & Kitchen",
+      "price": 550,
+      "image": "images/020.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Microfiber Cleaning Cloths (Pack)",
+      "category": "Cleaning & Household",
+      "price": 650,
+      "image": "images/021.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Electric Spin Scrubber",
+      "category": "Cleaning & Household",
+      "price": 2450,
+      "image": "images/022.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Bathroom Cleaning Brush",
+      "category": "Cleaning & Household",
+      "price": 550,
+      "image": "images/023.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Window Cleaning Squeegee",
+      "category": "Cleaning & Household",
+      "price": 750,
+      "image": "images/024.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Reusable Lint Roller",
+      "category": "Cleaning & Household",
+      "price": 450,
+      "image": "images/025.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Rechargeable Fabric Lint Remover",
+      "category": "Cleaning & Household",
+      "price": 1450,
+      "image": "images/026.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Silicone Floor Wiper",
+      "category": "Cleaning & Household",
+      "price": 850,
+      "image": "images/027.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Mini Handheld Vacuum Cleaner",
+      "category": "Cleaning & Household",
+      "price": 2850,
+      "image": "images/028.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Shoe Cleaning Brush",
+      "category": "Cleaning & Household",
+      "price": 350,
+      "image": "images/029.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Washing Machine Cleaning Bags",
+      "category": "Cleaning & Household",
+      "price": 550,
+      "image": "images/030.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Drain Hair Catcher",
+      "category": "Cleaning & Household",
+      "price": 350,
+      "image": "images/031.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Reusable Cleaning Gloves",
+      "category": "Cleaning & Household",
+      "price": 450,
+      "image": "images/032.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Adhesive Wall Hooks (Pack)",
+      "category": "Cleaning & Household",
+      "price": 450,
+      "image": "images/033.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Foldable Laundry Basket",
+      "category": "Cleaning & Household",
+      "price": 1150,
+      "image": "images/034.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Shoe Storage Organizer",
+      "category": "Cleaning & Household",
+      "price": 950,
+      "image": "images/035.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Motion-Sensor LED Light",
+      "category": "Cleaning & Household",
+      "price": 1050,
+      "image": "images/036.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Rechargeable Emergency Light",
+      "category": "Cleaning & Household",
+      "price": 1550,
+      "image": "images/037.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Multipurpose Storage Boxes",
+      "category": "Cleaning & Household",
+      "price": 950,
+      "image": "images/038.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Cable Management Clips (Pack)",
+      "category": "Cleaning & Household",
+      "price": 350,
+      "image": "images/039.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Furniture Protection Pads",
+      "category": "Cleaning & Household",
+      "price": 450,
+      "image": "images/040.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Silicone Scalp Massager",
+      "category": "Beauty & Personal Care",
+      "price": 550,
+      "image": "images/041.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Facial Cleansing Brush",
+      "category": "Beauty & Personal Care",
+      "price": 750,
+      "image": "images/042.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Ice Face Roller",
+      "category": "Beauty & Personal Care",
+      "price": 650,
+      "image": "images/043.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Makeup Organizer",
+      "category": "Beauty & Personal Care",
+      "price": 1150,
+      "image": "images/044.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Makeup Brush Cleaning Mat",
+      "category": "Beauty & Personal Care",
+      "price": 450,
+      "image": "images/045.jpg"
+    },
+    {
+      "id": 46,
+      "name": "Heatless Hair Curling Set",
+      "category": "Beauty & Personal Care",
+      "price": 950,
+      "image": "images/046.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Hair Claw Clips (Pack)",
+      "category": "Beauty & Personal Care",
+      "price": 450,
+      "image": "images/047.jpg"
+    },
+    {
+      "id": 48,
+      "name": "Satin Sleep Bonnet",
+      "category": "Beauty & Personal Care",
+      "price": 650,
+      "image": "images/048.jpg"
+    },
+    {
+      "id": 49,
+      "name": "Reusable Makeup Remover Pads",
+      "category": "Beauty & Personal Care",
+      "price": 550,
+      "image": "images/049.jpg"
+    },
+    {
+      "id": 50,
+      "name": "Cosmetic Travel Bag",
+      "category": "Beauty & Personal Care",
+      "price": 950,
+      "image": "images/050.jpg"
+    },
+    {
+      "id": 51,
+      "name": "Electric Nail Drill",
+      "category": "Beauty & Personal Care",
+      "price": 2250,
+      "image": "images/051.jpg"
+    },
+    {
+      "id": 52,
+      "name": "Foot Care Scrubber",
+      "category": "Beauty & Personal Care",
+      "price": 550,
+      "image": "images/052.jpg"
+    },
+    {
+      "id": 53,
+      "name": "Eyebrow Grooming Kit",
+      "category": "Beauty & Personal Care",
+      "price": 450,
+      "image": "images/053.jpg"
+    },
+    {
+      "id": 54,
+      "name": "Makeup Sponge Set",
+      "category": "Beauty & Personal Care",
+      "price": 550,
+      "image": "images/054.jpg"
+    },
+    {
+      "id": 55,
+      "name": "Travel Perfume Atomizer",
+      "category": "Beauty & Personal Care",
+      "price": 750,
+      "image": "images/055.jpg"
+    },
+    {
+      "id": 56,
+      "name": "Electric Callus Remover",
+      "category": "Beauty & Personal Care",
+      "price": 1650,
+      "image": "images/056.jpg"
+    },
+    {
+      "id": 57,
+      "name": "Hair Sectioning Clips (Pack)",
+      "category": "Beauty & Personal Care",
+      "price": 350,
+      "image": "images/057.jpg"
+    },
+    {
+      "id": 58,
+      "name": "Compact Travel Mirror",
+      "category": "Beauty & Personal Care",
+      "price": 650,
+      "image": "images/058.jpg"
+    },
+    {
+      "id": 59,
+      "name": "Shower Hair Catcher",
+      "category": "Beauty & Personal Care",
+      "price": 350,
+      "image": "images/059.jpg"
+    },
+    {
+      "id": 60,
+      "name": "Manicure and Pedicure Kit",
+      "category": "Beauty & Personal Care",
+      "price": 1250,
+      "image": "images/060.jpg"
+    },
+    {
+      "id": 61,
+      "name": "Foldable Mobile Phone Stand",
+      "category": "Mobile Accessories & Gadgets",
+      "price": 650,
+      "image": "images/061.jpg"
+    },
+    {
+      "id": 62,
+      "name": "Adjustable Tablet Stand",
+      "category": "Mobile Accessories & Gadgets",
+      "price": 1150,
+      "image": "images/062.jpg"
+    },
+    {
+      "id": 63,
+      "name": "Multi-Device Charging Cable",
+      "category": "Mobile Accessories & Gadgets",
+      "price": 850,
+      "image": "images/063.jpg"
+    },
+    {
+      "id": 64,
+      "name": "Magnetic Phone Holder",
+      "category": "Mobile Accessories & Gadgets",
+      "price": 750,
+      "image": "images/064.jpg"
+    },
+    {
+      "id": 65,
+      "name": "Cable Protector Set",
+      "category": "Mobile Accessories & Gadgets",
+      "price": 350,
+      "image": "images/065.jpg"
+    },
+    {
+      "id": 66,
+      "name": "Phone Camera Lens Protector",
+      "category": "Mobile Accessories & Gadgets",
+      "price": 450,
+      "image": "images/066.jpg"
+    },
+    {
+      "id": 67,
+      "name": "Waterproof Mobile Phone Pouch",
+      "category": "Mobile Accessories & Gadgets",
+      "price": 550,
+      "image": "images/067.jpg"
+    },
+    {
+      "id": 68,
+      "name": "Rechargeable Mini Fan",
+      "category": "Mobile Accessories & Gadgets",
+      "price": 1250,
+      "image": "images/068.jpg"
+    },
+    {
+      "id": 69,
+      "name": "LED Selfie Light",
+      "category": "Mobile Accessories & Gadgets",
+      "price": 950,
+      "image": "images/069.jpg"
+    },
+    {
+      "id": 70,
+      "name": "Portable Bluetooth Speaker",
+      "category": "Mobile Accessories & Gadgets",
+      "price": 2450,
+      "image": "images/070.jpg"
+    },
+    {
+      "id": 71,
+      "name": "Wireless Earbuds",
+      "category": "Mobile Accessories & Gadgets",
+      "price": 2950,
+      "image": "images/071.jpg"
+    },
+    {
+      "id": 72,
+      "name": "USB Rechargeable Desk Light",
+      "category": "Mobile Accessories & Gadgets",
+      "price": 1350,
+      "image": "images/072.jpg"
+    },
+    {
+      "id": 73,
+      "name": "Laptop Cleaning Kit",
+      "category": "Mobile Accessories & Gadgets",
+      "price": 750,
+      "image": "images/073.jpg"
+    },
+    {
+      "id": 74,
+      "name": "Keyboard Cleaning Brush",
+      "category": "Mobile Accessories & Gadgets",
+      "price": 450,
+      "image": "images/074.jpg"
+    },
+    {
+      "id": 75,
+      "name": "Mobile Phone Ring Holder",
+      "category": "Mobile Accessories & Gadgets",
+      "price": 350,
+      "image": "images/075.jpg"
+    },
+    {
+      "id": 76,
+      "name": "Car Phone Holder",
+      "category": "Mobile Accessories & Gadgets",
+      "price": 850,
+      "image": "images/076.jpg"
+    },
+    {
+      "id": 77,
+      "name": "Power Bank 10000mAh",
+      "category": "Mobile Accessories & Gadgets",
+      "price": 2650,
+      "image": "images/077.jpg"
+    },
+    {
+      "id": 78,
+      "name": "Universal Travel Adapter",
+      "category": "Mobile Accessories & Gadgets",
+      "price": 1450,
+      "image": "images/078.jpg"
+    },
+    {
+      "id": 79,
+      "name": "Foldable Laptop Stand",
+      "category": "Mobile Accessories & Gadgets",
+      "price": 1650,
+      "image": "images/079.jpg"
+    },
+    {
+      "id": 80,
+      "name": "Rechargeable Electric Air Duster",
+      "category": "Mobile Accessories & Gadgets",
+      "price": 2450,
+      "image": "images/080.jpg"
+    },
+    {
+      "id": 81,
+      "name": "Wardrobe Organizer Bags",
+      "category": "Home Organization",
+      "price": 950,
+      "image": "images/081.jpg"
+    },
+    {
+      "id": 82,
+      "name": "Hanging Closet Organizer",
+      "category": "Home Organization",
+      "price": 1150,
+      "image": "images/082.jpg"
+    },
+    {
+      "id": 83,
+      "name": "Drawer Divider Set",
+      "category": "Home Organization",
+      "price": 750,
+      "image": "images/083.jpg"
+    },
+    {
+      "id": 84,
+      "name": "Foldable Storage Baskets",
+      "category": "Home Organization",
+      "price": 850,
+      "image": "images/084.jpg"
+    },
+    {
+      "id": 85,
+      "name": "Under-Bed Storage Bags",
+      "category": "Home Organization",
+      "price": 1050,
+      "image": "images/085.jpg"
+    },
+    {
+      "id": 86,
+      "name": "Jewelry Organizer Box",
+      "category": "Home Organization",
+      "price": 1250,
+      "image": "images/086.jpg"
+    },
+    {
+      "id": 87,
+      "name": "Handbag Storage Hooks",
+      "category": "Home Organization",
+      "price": 550,
+      "image": "images/087.jpg"
+    },
+    {
+      "id": 88,
+      "name": "Rotating Makeup Organizer",
+      "category": "Home Organization",
+      "price": 1350,
+      "image": "images/088.jpg"
+    },
+    {
+      "id": 89,
+      "name": "Multipurpose Wall-Mounted Rack",
+      "category": "Home Organization",
+      "price": 1050,
+      "image": "images/089.jpg"
+    },
+    {
+      "id": 90,
+      "name": "Over-the-Door Hooks",
+      "category": "Home Organization",
+      "price": 650,
+      "image": "images/090.jpg"
+    },
+    {
+      "id": 91,
+      "name": "Remote Control Organizer",
+      "category": "Home Organization",
+      "price": 550,
+      "image": "images/091.jpg"
+    },
+    {
+      "id": 92,
+      "name": "Bedside Storage Caddy",
+      "category": "Home Organization",
+      "price": 750,
+      "image": "images/092.jpg"
+    },
+    {
+      "id": 93,
+      "name": "Foldable Hangers (Pack)",
+      "category": "Home Organization",
+      "price": 650,
+      "image": "images/093.jpg"
+    },
+    {
+      "id": 94,
+      "name": "Vacuum Storage Bags (Pack)",
+      "category": "Home Organization",
+      "price": 950,
+      "image": "images/094.jpg"
+    },
+    {
+      "id": 95,
+      "name": "Stackable Shoe Boxes (Pack)",
+      "category": "Home Organization",
+      "price": 1350,
+      "image": "images/095.jpg"
+    },
+    {
+      "id": 96,
+      "name": "Soap Dispenser",
+      "category": "Bathroom Essentials",
+      "price": 750,
+      "image": "images/096.jpg"
+    },
+    {
+      "id": 97,
+      "name": "Automatic Toothpaste Dispenser",
+      "category": "Bathroom Essentials",
+      "price": 950,
+      "image": "images/097.jpg"
+    },
+    {
+      "id": 98,
+      "name": "Toothbrush Holder",
+      "category": "Bathroom Essentials",
+      "price": 550,
+      "image": "images/098.jpg"
+    },
+    {
+      "id": 99,
+      "name": "Bathroom Corner Shelf",
+      "category": "Bathroom Essentials",
+      "price": 1150,
+      "image": "images/099.jpg"
+    },
+    {
+      "id": 100,
+      "name": "Quick-Dry Bath Mat",
+      "category": "Bathroom Essentials",
+      "price": 850,
+      "image": "images/100.jpg"
+    },
+    {
+      "id": 101,
+      "name": "Silicone Toilet Brush",
+      "category": "Bathroom Essentials",
+      "price": 750,
+      "image": "images/101.jpg"
+    },
+    {
+      "id": 102,
+      "name": "Shower Caddy",
+      "category": "Bathroom Essentials",
+      "price": 1050,
+      "image": "images/102.jpg"
+    },
+    {
+      "id": 103,
+      "name": "Soap-Saving Mesh Bags (Pack)",
+      "category": "Bathroom Essentials",
+      "price": 350,
+      "image": "images/103.jpg"
+    },
+    {
+      "id": 104,
+      "name": "Bathroom Organizer Tray",
+      "category": "Bathroom Essentials",
+      "price": 650,
+      "image": "images/104.jpg"
+    },
+    {
+      "id": 105,
+      "name": "Anti-Slip Shower Stickers",
+      "category": "Bathroom Essentials",
+      "price": 450,
+      "image": "images/105.jpg"
+    },
+    {
+      "id": 106,
+      "name": "Car Seat Gap Filler",
+      "category": "Car Accessories",
+      "price": 750,
+      "image": "images/106.jpg"
+    },
+    {
+      "id": 107,
+      "name": "Car Interior Cleaning Gel",
+      "category": "Car Accessories",
+      "price": 550,
+      "image": "images/107.jpg"
+    },
+    {
+      "id": 108,
+      "name": "Car Trunk Organizer",
+      "category": "Car Accessories",
+      "price": 1450,
+      "image": "images/108.jpg"
+    },
+    {
+      "id": 109,
+      "name": "Car Sunshade",
+      "category": "Car Accessories",
+      "price": 950,
+      "image": "images/109.jpg"
+    },
+    {
+      "id": 110,
+      "name": "Car Seat Hooks (Pack)",
+      "category": "Car Accessories",
+      "price": 550,
+      "image": "images/110.jpg"
+    },
+    {
+      "id": 111,
+      "name": "Car Tissue Box Holder",
+      "category": "Car Accessories",
+      "price": 650,
+      "image": "images/111.jpg"
+    },
+    {
+      "id": 112,
+      "name": "Car Dashboard Phone Holder",
+      "category": "Car Accessories",
+      "price": 850,
+      "image": "images/112.jpg"
+    },
+    {
+      "id": 113,
+      "name": "Car Trash Bin",
+      "category": "Car Accessories",
+      "price": 750,
+      "image": "images/113.jpg"
+    },
+    {
+      "id": 114,
+      "name": "Microfiber Car Cleaning Mitt",
+      "category": "Car Accessories",
+      "price": 450,
+      "image": "images/114.jpg"
+    },
+    {
+      "id": 115,
+      "name": "Portable Car Vacuum Cleaner",
+      "category": "Car Accessories",
+      "price": 2750,
+      "image": "images/115.jpg"
+    },
+    {
+      "id": 116,
+      "name": "Stainless Steel Water Bottle",
+      "category": "Daily-Use & Lifestyle",
+      "price": 1150,
+      "image": "images/116.jpg"
+    },
+    {
+      "id": 117,
+      "name": "Insulated Travel Mug",
+      "category": "Daily-Use & Lifestyle",
+      "price": 1350,
+      "image": "images/117.jpg"
+    },
+    {
+      "id": 118,
+      "name": "Lunch Box with Compartments",
+      "category": "Daily-Use & Lifestyle",
+      "price": 1050,
+      "image": "images/118.jpg"
+    },
+    {
+      "id": 119,
+      "name": "Reusable Shopping Bags (Pack)",
+      "category": "Daily-Use & Lifestyle",
+      "price": 550,
+      "image": "images/119.jpg"
+    },
+    {
+      "id": 120,
+      "name": "Foldable Travel Bag",
+      "category": "Daily-Use & Lifestyle",
+      "price": 1450,
+      "image": "images/120.jpg"
+    },
+    {
+      "id": 121,
+      "name": "Digital Luggage Scale",
+      "category": "Daily-Use & Lifestyle",
+      "price": 1250,
+      "image": "images/121.jpg"
+    },
+    {
+      "id": 122,
+      "name": "Travel Toiletry Organizer",
+      "category": "Daily-Use & Lifestyle",
+      "price": 950,
+      "image": "images/122.jpg"
+    },
+    {
+      "id": 123,
+      "name": "Compact Umbrella",
+      "category": "Daily-Use & Lifestyle",
+      "price": 1050,
+      "image": "images/123.jpg"
+    },
+    {
+      "id": 124,
+      "name": "Water Bottle Cleaning Brush",
+      "category": "Daily-Use & Lifestyle",
+      "price": 350,
+      "image": "images/124.jpg"
+    },
+    {
+      "id": 125,
+      "name": "Mini Digital Alarm Clock",
+      "category": "Daily-Use & Lifestyle",
+      "price": 950,
+      "image": "images/125.jpg"
+    },
+    {
+      "id": 126,
+      "name": "Pill Organizer Box",
+      "category": "Daily-Use & Lifestyle",
+      "price": 450,
+      "image": "images/126.jpg"
+    },
+    {
+      "id": 127,
+      "name": "Portable Sewing Kit",
+      "category": "Daily-Use & Lifestyle",
+      "price": 650,
+      "image": "images/127.jpg"
+    },
+    {
+      "id": 128,
+      "name": "Reusable Ice Packs (Pack)",
+      "category": "Daily-Use & Lifestyle",
+      "price": 550,
+      "image": "images/128.jpg"
+    },
+    {
+      "id": 129,
+      "name": "Anti-Slip Drawer Liners",
+      "category": "Daily-Use & Lifestyle",
+      "price": 650,
+      "image": "images/129.jpg"
+    },
+    {
+      "id": 130,
+      "name": "Compact Rechargeable Torch",
+      "category": "Daily-Use & Lifestyle",
+      "price": 1150,
+      "image": "images/130.jpg"
+    }
+  ],
+  "note": "Prices are editable placeholders in PKR - review before going live.",
+  "sections": {
+    "announcement": {
+      "enabled": true,
+      "boldText": "Cash on Delivery",
+      "text": "across Pakistan · Free delivery on orders over Rs 2,500"
+    },
+    "header": {
+      "storeName": "Al Noor Enterprises",
+      "phone": "0313-8404464"
+    },
+    "hero": {
+      "eyebrow": "Everyday value, delivered",
+      "headline": "Simple, practical products for home and life.",
+      "subheadline": "Over 130 useful finds priced fairly with Cash on Delivery anywhere in Pakistan.",
+      "ctaText": "Browse products",
+      "ctaLink": "#shop"
+    },
+    "trust": {
+      "deliveryTitle": "Nationwide delivery",
+      "deliverySub": "Rs 200 · Free over Rs 2,500",
+      "codTitle": "Cash on Delivery",
+      "codSub": "Pay when your order arrives",
+      "waTitle": "WhatsApp checkout",
+      "waSub": "Order directly at 0313-8404464"
+    },
+    "shipping": {
+      "fee": 200,
+      "freeThreshold": 2500,
+      "lahorePickup": "In-person pickup in Lahore is FREE (0 delivery charges).",
+      "nationwideNote": "Charged per half-kg weight via courier or builty/cargo."
+    },
+    "policies": {
+      "finalSale": "All sales are final. No refunds or exchanges will be accepted once the product is sold.",
+      "electronics": "Strictly NO refund or exchange for electronics or battery-operated items.",
+      "packaging": "High-standard secure packaging is used on every parcel to prevent transit breakage."
+    },
+    "footer": {
+      "tagline": "Useful finds. Fair prices. Easy ordering.",
+      "about": "Al Noor Enterprises brings practical household, personal care and lifestyle products to customers across Pakistan with simple Cash on Delivery ordering.",
+      "copyright": "© 2026 Al Noor Enterprises. All rights reserved."
+    },
+    "chatbot": {
+      "botName": "Al-Noor Wholesale Bot",
+      "subtitle": "Slabs & Inquiries · 24/7 Active",
+      "status": "Wholesale Desk (24/7 Online)",
+      "phone": "0313-8404464"
+    }
+  }
+}
