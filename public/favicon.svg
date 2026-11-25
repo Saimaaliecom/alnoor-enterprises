@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="goldRim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f5d77f"/>
+      <stop offset="50%" stop-color="#c99c33"/>
+      <stop offset="100%" stop-color="#8a6314"/>
+    </linearGradient>
+    <linearGradient id="goldRay" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#fced9f"/>
+      <stop offset="45%" stop-color="#c99c33"/>
+      <stop offset="100%" stop-color="#8a6314"/>
+    </linearGradient>
+    <radialGradient id="sunCenter" cx="50%" cy="100%" r="85%">
+      <stop offset="0%" stop-color="#fff9e6"/>
+      <stop offset="35%" stop-color="#edd174"/>
+      <stop offset="75%" stop-color="#b0811e"/>
+      <stop offset="100%" stop-color="#694605"/>
+    </radialGradient>
+    <filter id="softGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <!-- Luxury Badge Base (Crisp White with Gold Trim) -->
+  <rect x="16" y="16" width="480" height="480" rx="108" fill="#ffffff" stroke="url(#goldRim)" stroke-width="12" filter="url(#softGlow)"/>
+  <rect x="28" y="28" width="456" height="456" rx="96" fill="none" stroke="#f6e8c3" stroke-width="2.5"/>
+
+  <!-- Centered Sunburst Emblem Group -->
+  <!-- Center origin at (256, 345) -->
+  <g id="alNoorEmblem">
+    <!-- Outer Black Arch -->
+    <path d="M 106 345 A 150 150 0 0 1 406 345 Z" fill="#181818"/>
+    <!-- Middle White Ring -->
+    <path d="M 148 345 A 108 108 0 0 1 364 345 Z" fill="#ffffff"/>
+    <!-- Inner Black Ring -->
+    <path d="M 168 345 A 88 88 0 0 1 344 345 Z" fill="#181818"/>
+    <!-- Radiant Golden Core -->
+    <path d="M 194 345 A 62 62 0 0 1 318 345 Z" fill="url(#sunCenter)"/>
+
+    <!-- Sharp Radiant Golden Rays -->
+    <!-- Center Ray -->
+    <polygon points="256,125 247,345 265,345" fill="url(#goldRay)"/>
+
+    <!-- Left Ray 1 -->
+    <polygon points="194,155 242,345 258,345" fill="url(#goldRay)"/>
+    <!-- Right Ray 1 -->
+    <polygon points="318,155 254,345 270,345" fill="url(#goldRay)"/>
+
+    <!-- Left Ray 2 -->
+    <polygon points="138,210 238,345 252,345" fill="url(#goldRay)"/>
+    <!-- Right Ray 2 -->
+    <polygon points="374,210 260,345 274,345" fill="url(#goldRay)"/>
+
+    <!-- Left Ray 3 -->
+    <polygon points="98,280 238,345 250,345" fill="url(#goldRay)"/>
+    <!-- Right Ray 3 -->
+    <polygon points="414,280 262,345 274,345" fill="url(#goldRay)"/>
+
+    <!-- Brilliant Sun Core Highlight -->
+    <ellipse cx="256" cy="345" rx="38" ry="24" fill="#ffffff" opacity="0.88"/>
+    <ellipse cx="256" cy="345" rx="18" ry="12" fill="#ffffff" opacity="0.96"/>
+  </g>
+</svg>
